@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922183138639",
+    "firebase_url": "https://chatrealtime-f38a5.firebaseio.com",
+    "project_id": "chatrealtime-f38a5",
+    "storage_bucket": "chatrealtime-f38a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922183138639:android:060ea9168f45352907993a",
+        "android_client_info": {
+          "package_name": "com.example.messengerfakebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922183138639-hucckfiv59mn1afbt3epoltd5tdm3i4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messengerfakebook",
+            "certificate_hash": "01315034eb13fa2f2126f5f957d2d20c771fcc4a"
+          }
+        },
+        {
+          "client_id": "922183138639-4qceo4anpn4b3nil758nvo6qf875rrls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwel1AnS9tegC2Zk6ykkuww2COBZde468"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922183138639-4qceo4anpn4b3nil758nvo6qf875rrls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
